@@ -1,5 +1,6 @@
 # Chat Hub with SignalR and Identity
 
+
 Building a Complete Chat Application in Blazor WebAssembly 8.0 with SignalR and Identity. UI is taken care by MudBlazor Component Library.
 
 ![](https://media.giphy.com/media/Cn0cUz5MufPhyBFlAn/source.gif)
